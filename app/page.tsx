@@ -21,6 +21,18 @@ export default function Page() {
       <div className="my-8">
         <BlogPosts />
       </div>
+      
+      {/* Embedded Website */}
+      <div className="my-8">
+        <h2 className="mb-4 text-xl font-semibold">Embedded Website</h2>
+        <iframe
+          src="https://https://www.cookedorcookingmap.co/"
+          title="MappedIn Map of Producctivty!!"
+          width="100%"
+          height="500px"
+          className="border-0"
+        />
+      </div>
     </section>
   )
 }
