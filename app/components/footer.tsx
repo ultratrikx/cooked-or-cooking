@@ -35,7 +35,7 @@ export default function Footer() {
             className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
             rel="noopener noreferrer"
             target="_blank"
-            href="https://github.com/are-we-cooked-"
+            href="https://github.com/cooked-or-cooking"
           >
             <ArrowIcon />
             <p className="ml-2 h-7">github</p>
@@ -46,7 +46,7 @@ export default function Footer() {
             className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
             rel="noopener noreferrer"
             target="_blank"
-            href="https://github.com/ultratrikx/are-we-cooked-"
+            href="https://github.com/ultratrikx/cooked-or-cooking"
           >
             <ArrowIcon />
             <p className="ml-2 h-7">view source</p>
